@@ -112,7 +112,7 @@ These insights can help businesses improve **marketing strategies, product posit
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sakshi-chauhan0207/customer-shopping-behavior-analysis.git
+https://github.com/sakshi-chauhan0207/Customer-shopping-behavior-analysis.git
 ```
 
 ### 2. Install Required Libraries
